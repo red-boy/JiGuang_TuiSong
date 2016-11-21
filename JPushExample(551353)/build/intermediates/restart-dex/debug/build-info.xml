@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="ldpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="3803829444396"
+    token="-6643385047593499024"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2527" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="610" />
+    <task
+        name="verifier"
+        duration="50" />
+
+    <artifact
+        location="D:\Android3_my\JiGuang_TuiSong\JPushExample(551353)\build\outputs\apk\JPushExample(551353)-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="3803829444396"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Android3_my\JiGuang_TuiSong\JPushExample(551353)\build\outputs\apk\JPushExample(551353)-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
